@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="https://static.naewna.com/uploads/news/source/814318.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <img src="https://www.kaohooninternational.com/wp-content/uploads/2024/06/Pic10-AIS-5G-%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%86-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%88-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B9%81%E0%B8%A3%E0%B8%87-scaled.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
     </div>
 
     <div class="w3-col m6 w3-padding-large">
